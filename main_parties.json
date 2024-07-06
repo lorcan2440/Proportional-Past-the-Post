@@ -1,0 +1,26 @@
+{
+    "Conservative":
+        {"colour": "#2287e6", "name": "Conservatives"},
+    "Labour":
+        {"colour": "#ff2121", "name": "Labour"},
+    "Liberal Democrat":
+        {"colour": "#fad24d", "name": "Lib Dems"},
+    "Scottish National Party":
+        {"colour": "#e3e300", "name": "SNP"},
+    "Green Party":
+        {"colour": "#5dc92e", "name": "Greens"},
+    "The Brexit Party":
+        {"colour": "#38e8ff", "name": "Brexit"},
+    "Democratic Unionist Party":
+        {"colour": "#311b7a", "name": "DUP"},
+    "Sinn Féin":
+        {"colour": "#146e2f", "name": "Sinn Féin"},
+    "Plaid Cymru":
+        {"colour": "#4cba6d", "name": "Plaid Cymru"},
+    "Alliance":
+        {"colour": "#edd84e", "name": "Alliance"},
+    "Social Democratic & Labour Party":
+        {"colour": "#38a82c", "name": "SDLP"},
+    "Other":
+        {"colour": "#a8a8a8", "name": "Other"}
+}
