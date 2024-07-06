@@ -11,6 +11,8 @@ The votes for each party were as follows:
 
 ![2019 UK General Election Results](2019_general_election_popular_votes.svg)
 
+This analysis will be repeated for the 2024 election data once made available, expected to be by mid July 2024.
+
 ## Voting Systems
 
 Using the above data, the results of the 2019 UK General Election were simulated using three voting systems. 'First Past the Post' (FPTP) is the method used today in the UK, in which the leading candidate in each constituency is allocated a seat. A competitor to FPTP is 'Proportional Representation' (PR), which allocates seats based on the proportion of votes each party received. This has the disadvantage of not taking into account the constituency data and often leads to hung parliaments, but is fundamentally highly democratic. A new method has been developed known as 'Proportional Past the Post' (PPP), which is a hybrid of FPTP and PR.
