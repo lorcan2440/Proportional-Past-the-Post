@@ -9,7 +9,7 @@ Data for the 2019 UK General Election was obtained from the [House of Commons Li
 
 The votes for each party were as follows:
 
-![2019 UK General Election Results](2019_general_election_popular_votes.svg)
+![2019 UK General Election Results](figures/2019_general_election_popular_votes.svg)
 
 This analysis will be repeated for the 2024 election data once made available, expected to be by mid July 2024.
 
@@ -19,14 +19,14 @@ Using the above data, the results of the 2019 UK General Election were simulated
 
 The results under each system are as follows:
 
-![2019 UK General Election Results](2019_general_election_results.svg)
+![2019 UK General Election Results](figures/2019_general_election_results.svg)
 
 It is observed that the proportional systems lead to a greater diversity of parties in Parliament. The 'deviations from proportionality' are shown below:
 
-![2019 UK General Election Results](2019_general_election_proportionality.svg)
+![2019 UK General Election Results](figures/2019_general_election_proportionality.svg)
 
 The breakdowns by each party are shown. Positive deviations represent over-representation, while negative deviations represent under-representation:
 
-![2019 UK General Election Results](2019_general_election_deviation.svg)
+![2019 UK General Election Results](figures/2019_general_election_deviation.svg)
 
 The PPP system retains the benefits of good proportionality like PR, while also maintaining the constituency link of FPTP.
