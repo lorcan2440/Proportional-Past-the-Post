@@ -24,3 +24,9 @@ The results under each system are as follows:
 It is observed that the proportional systems lead to a greater diversity of parties in Parliament. The 'deviations from proportionality' are shown below:
 
 ![2019 UK General Election Results](2019_general_election_proportionality.svg)
+
+The breakdowns by each party are shown. Positive deviations represent over-representation, while negative deviations represent under-representation:
+
+![2019 UK General Election Results](2019_general_election_deviation.svg)
+
+The PPP system retains the benefits of good proportionality like PR, while also maintaining the constituency link of FPTP.
