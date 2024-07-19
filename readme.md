@@ -15,6 +15,11 @@ The votes for each party were as follows:
 
 The analysis was also performed with the 2019 results. The figures are visible in the `figures` folder.
 
+## Methodology Notes
+
+- All "independent" candidates are lumped into a party called "Independent", and the algorithm is run as if this is a single party. The choice of whether or not to do this is important and the results change depending on it. I am not sure if this is how it is done in reality.
+- At the end of the algorithm, the votes and seats for "Labour and Cooperative party" and "Labour party" are added and reported under "Labour party".
+
 ## Voting Systems
 
 Using the above data, the results of the 2024 UK General Election were simulated using three voting systems. 'First Past the Post' (FPTP) is the method used today in the UK, in which the leading candidate in each constituency is allocated a seat. A competitor to FPTP is 'Proportional Representation' (PR), which allocates seats based on the proportion of votes each party received. This has the disadvantage of not taking into account the constituency data and often leads to hung parliaments, but is fundamentally highly democratic. A new method has been developed known as 'Proportional Past the Post' (PPP), which is a hybrid of FPTP and PR.
