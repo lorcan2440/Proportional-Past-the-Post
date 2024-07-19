@@ -7,7 +7,7 @@ Analysis available in file `election_2024.ipynb`.
 
 ## Election Data
 
-Data for the 2024 UK General Election was obtained from the [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-8749/), using the 'General election results by candidate' file.
+Data for the 2024 UK General Election was obtained from the [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-10009/), using the 'General election results by candidate' file.
 
 The votes for each party were as follows:
 
