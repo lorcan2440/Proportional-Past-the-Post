@@ -9,11 +9,17 @@
         {"colour": "#e3e300", "name": "SNP"},
     "Green Party":
         {"colour": "#5dc92e", "name": "Greens"},
+    "Green":
+        {"colour": "#5dc92e", "name": "Greens"},
     "The Brexit Party":
         {"colour": "#38e8ff", "name": "Brexit"},
+    "Reform UK":
+        {"colour": "#24d9e3", "name": "Reform"},
     "Democratic Unionist Party":
         {"colour": "#311b7a", "name": "DUP"},
     "Sinn Féin":
+        {"colour": "#146e2f", "name": "Sinn Féin"},
+    "Sinn Fein":
         {"colour": "#146e2f", "name": "Sinn Féin"},
     "Plaid Cymru":
         {"colour": "#4cba6d", "name": "Plaid Cymru"},
@@ -21,6 +27,8 @@
         {"colour": "#edd84e", "name": "Alliance"},
     "Social Democratic & Labour Party":
         {"colour": "#38a82c", "name": "SDLP"},
+    "Workers Party of Britain":
+        {"colour": "#ff0000", "name": "Workers Party"},
     "Other":
         {"colour": "#a8a8a8", "name": "Other"}
 }
